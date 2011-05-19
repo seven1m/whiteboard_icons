@@ -8,9 +8,15 @@ These are my simple black-and-white icons, hand-drawn using a dry erase marker.
 ![Database 1](/seven1m/whiteboard_icons/raw/master/64/database1.png) &nbsp;
 ![Database 2](/seven1m/whiteboard_icons/raw/master/64/database2.png) &nbsp;
 ![Envelope](/seven1m/whiteboard_icons/raw/master/64/envelope.png) &nbsp;
-![Folder](/seven1m/whiteboard_icons/raw/master/64/folder.png)
+![Folder](/seven1m/whiteboard_icons/raw/master/64/folder.png) &nbsp;
+![Gear](/seven1m/whiteboard_icons/raw/master/64/gear.png) &nbsp;
+![Light Bulb](/seven1m/whiteboard_icons/raw/master/64/light_bulb.png) &nbsp;
+![Page](/seven1m/whiteboard_icons/raw/master/64/page.png) &nbsp;
+![Pencil](/seven1m/whiteboard_icons/raw/master/64/pencil.png) &nbsp;
+![People](/seven1m/whiteboard_icons/raw/master/64/people.png) &nbsp;
+![Person](/seven1m/whiteboard_icons/raw/master/64/person.png)
 
-So far, I've converted 7 of my 17 original crude drawings ([here](/seven1m/whiteboard_icons/tree/master/originals)) into scalable svg.
+So far, I've converted 13 of my 17 crude drawings ([originals here](/seven1m/whiteboard_icons/tree/master/originals)) into scalable svg.
 
 ## Copyright & License
 
