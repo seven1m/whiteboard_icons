@@ -14,9 +14,14 @@ These are my simple black-and-white icons, hand-drawn using a dry erase marker.
 ![Page](/seven1m/whiteboard_icons/raw/master/64/page.png) &nbsp;
 ![Pencil](/seven1m/whiteboard_icons/raw/master/64/pencil.png) &nbsp;
 ![People](/seven1m/whiteboard_icons/raw/master/64/people.png) &nbsp;
-![Person](/seven1m/whiteboard_icons/raw/master/64/person.png)
+![Person](/seven1m/whiteboard_icons/raw/master/64/person.png) &nbsp;
+![Speech Bubble](/seven1m/whiteboard_icons/raw/master/64/speech_bubble.png) &nbsp;
+![Star](/seven1m/whiteboard_icons/raw/master/64/star.png) &nbsp;
+![Trash](/seven1m/whiteboard_icons/raw/master/64/trash.png) &nbsp;
+![World](/seven1m/whiteboard_icons/raw/master/64/world.png)
 
-So far, I've converted 13 of my 17 crude drawings ([originals here](/seven1m/whiteboard_icons/tree/master/originals)) into scalable svg.
+Enjoy! 17 icons, with possibly more coming some day when the creative urge hits me.
+
 
 ## Copyright & License
 
