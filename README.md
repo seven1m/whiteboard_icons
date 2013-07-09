@@ -2,23 +2,23 @@
 
 These are my simple black-and-white icons, hand-drawn using a dry erase marker.
 
-![Arrow](/seven1m/whiteboard_icons/raw/master/64/arrow.png) &nbsp;
-![Business Person](/seven1m/whiteboard_icons/raw/master/64/business_person.png) &nbsp;
-![Computer](/seven1m/whiteboard_icons/raw/master/64/computer.png) &nbsp;
-![Database 1](/seven1m/whiteboard_icons/raw/master/64/database1.png) &nbsp;
-![Database 2](/seven1m/whiteboard_icons/raw/master/64/database2.png) &nbsp;
-![Envelope](/seven1m/whiteboard_icons/raw/master/64/envelope.png) &nbsp;
-![Folder](/seven1m/whiteboard_icons/raw/master/64/folder.png) &nbsp;
-![Gear](/seven1m/whiteboard_icons/raw/master/64/gear.png) &nbsp;
-![Light Bulb](/seven1m/whiteboard_icons/raw/master/64/light_bulb.png) &nbsp;
-![Page](/seven1m/whiteboard_icons/raw/master/64/page.png) &nbsp;
-![Pencil](/seven1m/whiteboard_icons/raw/master/64/pencil.png) &nbsp;
-![People](/seven1m/whiteboard_icons/raw/master/64/people.png) &nbsp;
-![Person](/seven1m/whiteboard_icons/raw/master/64/person.png) &nbsp;
-![Speech Bubble](/seven1m/whiteboard_icons/raw/master/64/speech_bubble.png) &nbsp;
-![Star](/seven1m/whiteboard_icons/raw/master/64/star.png) &nbsp;
-![Trash](/seven1m/whiteboard_icons/raw/master/64/trash.png) &nbsp;
-![World](/seven1m/whiteboard_icons/raw/master/64/world.png)
+![Arrow](https://raw.github.com/seven1m/whiteboard_icons/master/64/arrow.png) &nbsp;
+![Business Person](https://raw.github.com/seven1m/whiteboard_icons/master/64/business_person.png) &nbsp;
+![Computer](https://raw.github.com/seven1m/whiteboard_icons/master/64/computer.png) &nbsp;
+![Database 1](https://raw.github.com/seven1m/whiteboard_icons/master/64/database1.png) &nbsp;
+![Database 2](https://raw.github.com/seven1m/whiteboard_icons/master/64/database2.png) &nbsp;
+![Envelope](https://raw.github.com/seven1m/whiteboard_icons/master/64/envelope.png) &nbsp;
+![Folder](https://raw.github.com/seven1m/whiteboard_icons/master/64/folder.png) &nbsp;
+![Gear](https://raw.github.com/seven1m/whiteboard_icons/master/64/gear.png) &nbsp;
+![Light Bulb](https://raw.github.com/seven1m/whiteboard_icons/master/64/light_bulb.png) &nbsp;
+![Page](https://raw.github.com/seven1m/whiteboard_icons/master/64/page.png) &nbsp;
+![Pencil](https://raw.github.com/seven1m/whiteboard_icons/master/64/pencil.png) &nbsp;
+![People](https://raw.github.com/seven1m/whiteboard_icons/master/64/people.png) &nbsp;
+![Person](https://raw.github.com/seven1m/whiteboard_icons/master/64/person.png) &nbsp;
+![Speech Bubble](https://raw.github.com/seven1m/whiteboard_icons/master/64/speech_bubble.png) &nbsp;
+![Star](https://raw.github.com/seven1m/whiteboard_icons/master/64/star.png) &nbsp;
+![Trash](https://raw.github.com/seven1m/whiteboard_icons/master/64/trash.png) &nbsp;
+![World](https://raw.github.com/seven1m/whiteboard_icons/master/64/world.png)
 
 Enjoy! 17 icons, with possibly more coming some day when the creative urge hits me.
 
