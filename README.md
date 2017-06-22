@@ -25,7 +25,7 @@ Enjoy! 17 icons, with possibly more coming some day when the creative urge hits 
 
 ## Copyright & License
 
-Copyright (c) 2011, Tim Morgan
+Copyright (c) Tim Morgan
 
 ![Creative Commons License](http://i.creativecommons.org/l/by/3.0/80x15.png)
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
